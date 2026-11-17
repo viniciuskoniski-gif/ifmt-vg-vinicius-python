@@ -6,12 +6,12 @@
 
 ## O que ela faz
 
-(escreva aqui)
+Minha calculadora soma, subtrai, multiplica, e divide, contas básicas.
 
 ## Limitação conhecida
 
-(escreva aqui)
+Se escrever qual quer letra ela da erro e pede para você fazer de volta, faz apenas contas básicas, não faça nada que fuja dos padrões, ou dará erro.
 
 ## Um bug que encontrei
 
-(qual foi o erro, como você achou — traceback ou breakpoint — e como corrigiu)
+Até agora sem bugs...
