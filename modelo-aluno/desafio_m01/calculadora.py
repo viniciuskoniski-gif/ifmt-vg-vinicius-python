@@ -7,7 +7,6 @@ print("4 - Divisão (/)")
 
 operacao = input("Escolha a operação (1/2/3/4): ")
 
-# Verifica se a opção é válida antes de pedir os números
 if operacao in ['1', '2', '3', '4']:
     num1 = float(input("Digite o primeiro número: "))
     num2 = float(input("Digite o segundo número: "))
